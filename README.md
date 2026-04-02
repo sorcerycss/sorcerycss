@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on three.js projects
 - 📫 How to reach me @sorcerycss
 - 😄 Pronouns: he/him
-- ⚡ Fun fact:
+- ⚡ Fun fact: huge procrastinator
 
 <!---
 sorcerycss/sorcerycss is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
